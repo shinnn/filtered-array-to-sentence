@@ -1,0 +1,42 @@
+{
+  "name": "filtered-array-to-sentence",
+  "description": "Filter an array and produce a human-readable result as a string",
+  "keywords": [
+    "to-sentence",
+    "sentence",
+    "arr",
+    "array",
+    "join",
+    "human",
+    "readable",
+    "string",
+    "separator",
+    "comma",
+    "and",
+    "filter",
+    "filtered",
+    "filtering"
+  ],
+  "main": "browser.js",
+  "moduleType": "globals",
+  "homepage": "https://github.com/shinnn/filtered-array-to-sentence",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shinnn/filtered-array-to-sentence.git"
+  },
+  "authors": [
+    "Shinnosuke Watanabe (https://github.com/shinnn)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "array-to-sentence": "~1.0.3",
+    "indexed-filter": "~1.0.0"
+  },
+  "ignore": [
+    "**/.*",
+    "*.js",
+    "*.json",
+    "coverage",
+    "node_modules"
+  ]
+}
