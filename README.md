@@ -4,9 +4,8 @@
 [![Bower version](https://img.shields.io/bower/v/filtered-array-to-sentence.svg)](https://github.com/shinnn/filtered-array-to-sentence/releases)
 [![Build Status](https://travis-ci.org/shinnn/filtered-array-to-sentence.svg?branch=master)](https://travis-ci.org/shinnn/filtered-array-to-sentence)
 [![Coverage Status](https://img.shields.io/coveralls/shinnn/filtered-array-to-sentence.svg)](https://coveralls.io/r/shinnn/filtered-array-to-sentence)
-[![Dependency Status](https://img.shields.io/david/shinnn/filtered-array-to-sentence.svg?label=deps)](https://david-dm.org/shinnn/filtered-array-to-sentence)
-[![devDependency Status](https://img.shields.io/david/dev/shinnn/filtered-array-to-sentence.svg?label=devDeps)](https://david-dm.org/shinnn/filtered-array-to-sentence#info=devDependencies)
-
+[![Dependency Status](https://david-dm.org/shinnn/filtered-array-to-sentence.svg)](https://david-dm.org/shinnn/filtered-array-to-sentence)
+[![devDependency Status](https://david-dm.org/shinnn/filtered-array-to-sentence/dev-status.svg)](https://david-dm.org/shinnn/filtered-array-to-sentence#info=devDependencies)
 
 Filter an array and produce a human-readable result as a string
 
@@ -19,15 +18,13 @@ filteredArrayToSentence([null, 'apple', 999, 'orange'], isString);
 
 ## Installation
 
-### Package managers
-
-#### [npm](https://www.npmjs.com/)
+### [npm](https://www.npmjs.com/)
 
 ```
 npm install filtered-array-to-sentence
 ```
 
-#### [bower](http://bower.io/)
+### [bower](http://bower.io/)
 
 ```
 bower install filtered-array-to-sentence
